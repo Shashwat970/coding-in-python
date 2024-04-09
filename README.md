@@ -1,6 +1,6 @@
-# HOW TO START CODNG IN PYTHON
+<h1> HOW TO START CODNG IN PYTHON </h1>
 </br>
-## FIRST YOU NEED TO KNOW WHAT IS PYTHON LANGUAGE
+<h3> FIRST YOU NEED TO KNOW WHAT IS PYTHON LANGUAGE </h3>
 </br>
 ### Python is a high-level, interpreted programming language known for its simplicity and readability. Created by Guido van Rossum and first released in 1991, Python has gained immense popularity due to its versatility and ease of use. Here are some key characteristics and features of Python:
 
